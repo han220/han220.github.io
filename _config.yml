@@ -1,0 +1,3 @@
+- remote_theme: "mmistakes/minimal-mistakes
+- url: "https://han220.github.io"
+- baseurl: "" # the subpath of your site, e.g. "/blog"
